@@ -45,8 +45,11 @@ date_format: '%Y-%m-%d'
 ### 4. Autoinsights
 
 #### 4.1. Time mode 
-![Autoinsights 1](files/4_1_insight.jpg)
+|   ![SimpleMiner](files/4_1_insight.jpg)|  ![SimpleMiner](files/4_1_insight_complains.jpg) |
+|---|---|
 #### 4.2. Cycles mode
-![Autoinsights 2](files/4_2_insight.jpg)
+|   ![SimpleMiner](files/4_2_insight.jpg)|  ![SimpleMiner](files/4_2_insight_complains.jpg) |
+|---|---|
 #### 4.3. Overall mode
-![Autoinsights 3](files/4_3_insight.jpg)
+|   ![SimpleMiner](files/4_3_insight.jpg)|  ![SimpleMiner](files/4_3_insight_complains.jpg) |
+|---|---|
