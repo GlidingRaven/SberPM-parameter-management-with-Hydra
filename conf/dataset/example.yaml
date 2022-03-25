@@ -1,0 +1,7 @@
+name: example
+filename: example.csv
+separator: ','
+id_col: id
+act_col: stages
+time_col: dt
+date_format: '%Y-%m-%d'

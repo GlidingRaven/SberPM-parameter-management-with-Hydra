@@ -1,0 +1,7 @@
+name: complains
+filename: BPI2016_Complaints.csv
+separator: ';'
+id_col: Office_U
+act_col: Office_W
+time_col: ContactDate
+date_format: '%Y-%m-%d'

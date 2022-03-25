@@ -1,0 +1,290 @@
+CustomerID;AgeCategory;Gender;Office_U;Office_W;ComplaintDossierID;ComplaintID;ContactDate;ContactChannelID;ComplaintThemeID;ComplaintSubthemeID;ComplaintTopicID;ComplaintTheme;ComplaintSubtheme;ComplaintTopic;ComplaintTheme_EN;ComplaintSubtheme_EN;ComplaintTopic_EN
+1945807;50-65;M;230;233;197;220;2016-01-12;8;1;5;1;behandelingsduur;n.v.t.;(herzienings)besluit wordt niet / te laat genomen;duration of treatment;N.A.;(Revision) Decision not/too late taken
+733565;30-39;M;296;290;198;221;2016-01-12;8;1;5;1;behandelingsduur;n.v.t.;(herzienings)besluit wordt niet / te laat genomen;duration of treatment;N.A.;(Revision) Decision not/too late taken
+413563;18-29;V;327;327;225;255;2016-02-01;8;3;4;2;dienstverlening;informatie / communicatie naar de klant;(meerdere) verzoeken, te weinig resultaat;services;information/communication to the customer;(Multiple) requests, to little avail
+2027840;30-39;M;327;321;149;165;2015-12-11;5;3;4;2;dienstverlening;informatie / communicatie naar de klant;(meerdere) verzoeken, te weinig resultaat;services;information/communication to the customer;(Multiple) requests, to little avail
+1202227;30-39;V;280;283;3;6;2015-07-07;5;3;4;2;dienstverlening;informatie / communicatie naar de klant;(meerdere) verzoeken, te weinig resultaat;services;information/communication to the customer;(Multiple) requests, to little avail
+2016564;40-49;V;238;241;5;9;2015-07-09;8;3;4;2;dienstverlening;informatie / communicatie naar de klant;(meerdere) verzoeken, te weinig resultaat;services;information/communication to the customer;(Multiple) requests, to little avail
+2060596;50-65;M;313;318;20;25;2015-08-18;8;3;4;2;dienstverlening;informatie / communicatie naar de klant;(meerdere) verzoeken, te weinig resultaat;services;information/communication to the customer;(Multiple) requests, to little avail
+2024035;30-39;V;271;279;57;68;2015-10-06;6;3;4;2;dienstverlening;informatie / communicatie naar de klant;(meerdere) verzoeken, te weinig resultaat;services;information/communication to the customer;(Multiple) requests, to little avail
+2079086;40-49;M;330;330;59;71;2015-10-06;8;3;4;2;dienstverlening;informatie / communicatie naar de klant;(meerdere) verzoeken, te weinig resultaat;services;information/communication to the customer;(Multiple) requests, to little avail
+2015948;18-29;V;327;327;9;14;2015-07-28;8;3;1;3;dienstverlening;begeleiding / behandeling;bekende gegevens (nogmaals) opgevraagd;services;support/handling;known data (again) requested
+1735039;40-49;M;313;316;86;100;2015-11-02;8;3;3;4;dienstverlening;betaling;betaalmoment (ivm feestdagen) ongunstig;services;payment;payment time (for holidays) unfavorable
+945760;40-49;M;280;280;220;250;2016-01-28;8;3;3;4;dienstverlening;betaling;betaalmoment (ivm feestdagen) ongunstig;services;payment;payment time (for holidays) unfavorable
+2083022;40-49;V;269;269;105;120;2015-11-15;8;3;4;5;dienstverlening;informatie / communicatie naar de klant;betaalspec. geen info over lager netto;services;information/communication to the customer;Pay spec. no info on lower net
+2064884;30-39;V;257;327;103;118;2015-11-13;8;3;3;6;dienstverlening;betaling;betaling onjuist, nu vordering;services;payment;improper payment, now claim
+1893155;50-65;M;271;278;217;246;2016-01-27;5;3;3;6;dienstverlening;betaling;betaling onjuist, nu vordering;services;payment;improper payment, now claim
+2030956;18-29;V;305;304;257;290;2016-02-28;8;3;3;6;dienstverlening;betaling;betaling onjuist, nu vordering;services;payment;improper payment, now claim
+6012;50-65;M;257;257;246;278;2016-02-12;6;3;3;7;dienstverlening;betaling;betaling onregelmatig;services;payment;irregular payment
+1203383;40-49;V;327;327;185;204;2016-01-08;8;3;3;7;dienstverlening;betaling;betaling onregelmatig;services;payment;irregular payment
+1470694;18-29;V;305;305;191;211;2016-01-09;8;3;3;7;dienstverlening;betaling;betaling onregelmatig;services;payment;irregular payment
+627907;30-39;V;257;255;65;77;2015-10-09;8;3;3;7;dienstverlening;betaling;betaling onregelmatig;services;payment;irregular payment
+662843;40-49;V;327;327;21;28;2015-08-24;1;3;3;7;dienstverlening;betaling;betaling onregelmatig;services;payment;irregular payment
+2024035;30-39;V;271;279;33;43;2015-09-11;6;3;3;7;dienstverlening;betaling;betaling onregelmatig;services;payment;irregular payment
+1919088;40-49;V;247;247;48;59;2015-09-28;8;3;3;8;dienstverlening;betaling;betaling ontbreekt;services;payment;payment missing
+1976291;50-65;M;230;233;126;142;2015-12-02;8;3;3;8;dienstverlening;betaling;betaling ontbreekt;services;payment;payment missing
+1467742;30-39;V;271;278;111;126;2015-11-25;8;3;3;9;dienstverlening;betaling;betaling over een bepaalde periode ontbreekt;services;payment;payment over a certain period is missing
+1840727;30-39;M;296;291;113;128;2015-11-27;4;3;3;9;dienstverlening;betaling;betaling over een bepaalde periode ontbreekt;services;payment;payment over a certain period is missing
+82687;30-39;V;327;327;115;130;2015-11-27;6;3;3;9;dienstverlening;betaling;betaling over een bepaalde periode ontbreekt;services;payment;payment over a certain period is missing
+1042998;30-39;M;238;239;76;89;2015-10-23;8;3;3;9;dienstverlening;betaling;betaling over een bepaalde periode ontbreekt;services;payment;payment over a certain period is missing
+2066659;30-39;V;313;318;89;103;2015-11-06;6;3;3;9;dienstverlening;betaling;betaling over een bepaalde periode ontbreekt;services;payment;payment over a certain period is missing
+1218236;18-29;V;313;318;92;106;2015-11-06;8;3;3;9;dienstverlening;betaling;betaling over een bepaalde periode ontbreekt;services;payment;payment over a certain period is missing
+2102232;50-65;M;327;321;98;112;2015-11-11;8;3;3;9;dienstverlening;betaling;betaling over een bepaalde periode ontbreekt;services;payment;payment over a certain period is missing
+787739;30-39;V;257;308;19;24;2015-08-17;8;3;3;9;dienstverlening;betaling;betaling over een bepaalde periode ontbreekt;services;payment;payment over a certain period is missing
+534311;18-29;V;269;269;17;22;2015-08-17;6;3;3;9;dienstverlening;betaling;betaling over een bepaalde periode ontbreekt;services;payment;payment over a certain period is missing
+63430;50-65;M;257;255;24;31;2015-09-01;8;3;3;9;dienstverlening;betaling;betaling over een bepaalde periode ontbreekt;services;payment;payment over a certain period is missing
+435939;30-39;V;269;269;25;32;2015-09-01;8;3;3;9;dienstverlening;betaling;betaling over een bepaalde periode ontbreekt;services;payment;payment over a certain period is missing
+2017781;50-65;V;271;279;26;34;2015-09-02;8;3;3;9;dienstverlening;betaling;betaling over een bepaalde periode ontbreekt;services;payment;payment over a certain period is missing
+993589;18-29;M;313;313;28;36;2015-09-01;1;3;3;9;dienstverlening;betaling;betaling over een bepaalde periode ontbreekt;services;payment;payment over a certain period is missing
+500923;30-39;V;230;233;30;38;2015-09-04;8;3;3;9;dienstverlening;betaling;betaling over een bepaalde periode ontbreekt;services;payment;payment over a certain period is missing
+534662;18-29;M;230;230;155;171;2015-12-17;6;3;3;9;dienstverlening;betaling;betaling over een bepaalde periode ontbreekt;services;payment;payment over a certain period is missing
+1692924;50-65;M;313;313;158;175;2015-12-19;8;3;3;9;dienstverlening;betaling;betaling over een bepaalde periode ontbreekt;services;payment;payment over a certain period is missing
+1037914;50-65;V;330;330;234;265;2016-02-05;4;3;3;9;dienstverlening;betaling;betaling over een bepaalde periode ontbreekt;services;payment;payment over a certain period is missing
+1840362;50-65;V;280;280;214;242;2016-01-24;8;3;3;9;dienstverlening;betaling;betaling over een bepaalde periode ontbreekt;services;payment;payment over a certain period is missing
+2068062;40-49;V;305;304;207;232;2016-01-18;8;3;3;9;dienstverlening;betaling;betaling over een bepaalde periode ontbreekt;services;payment;payment over a certain period is missing
+1001033;30-39;V;313;313;192;212;2016-01-11;6;2;5;10;bejegening (houding / gedrag);n.v.t.;boos over beëindiging gesprek;treatment (attitude/behavior);N.A.;angry call termination
+2006163;18-29;V;230;230;58;69;2015-10-06;8;2;5;10;bejegening (houding / gedrag);n.v.t.;boos over beëindiging gesprek;treatment (attitude/behavior);N.A.;angry call termination
+2073425;18-29;M;313;313;119;135;2015-12-01;6;2;5;10;bejegening (houding / gedrag);n.v.t.;boos over beëindiging gesprek;treatment (attitude/behavior);N.A.;angry call termination
+2081135;50-65;M;230;230;114;129;2015-11-26;8;3;2;11;dienstverlening;bereikbaarheid / toegankelijkheid;contactpersoon niet rechtstreeks bereikbaar;services;availability/accessibility;contact is not directly accessible
+1403721;18-29;V;230;237;205;228;2016-01-18;6;3;4;12;dienstverlening;informatie / communicatie naar de klant;de schriftelijke toonzetting is klantonvriendelijk;services;information/communication to the customer;Written tone is customer unfriendly
+1893155;50-65;M;271;278;217;247;2016-01-27;5;3;4;12;dienstverlening;informatie / communicatie naar de klant;de schriftelijke toonzetting is klantonvriendelijk;services;information/communication to the customer;Written tone is customer unfriendly
+223532;40-49;M;327;327;221;251;2016-01-29;8;3;4;12;dienstverlening;informatie / communicatie naar de klant;de schriftelijke toonzetting is klantonvriendelijk;services;information/communication to the customer;Written tone is customer unfriendly
+2107853;50-65;M;296;291;243;275;2016-02-05;8;3;2;13;dienstverlening;bereikbaarheid / toegankelijkheid;digitaal formulier op internet niet bereikbaar;services;availability/accessibility;digital form on the Internet unreachable
+214194;18-29;V;238;238;194;215;2016-01-12;6;3;2;13;dienstverlening;bereikbaarheid / toegankelijkheid;digitaal formulier op internet niet bereikbaar;services;availability/accessibility;digital form on the Internet unreachable
+2038837;50-65;V;269;269;139;155;2015-12-04;8;3;2;13;dienstverlening;bereikbaarheid / toegankelijkheid;digitaal formulier op internet niet bereikbaar;services;availability/accessibility;digital form on the Internet unreachable
+2078842;50-65;V;230;237;123;139;2015-12-02;8;3;2;13;dienstverlening;bereikbaarheid / toegankelijkheid;digitaal formulier op internet niet bereikbaar;services;availability/accessibility;digital form on the Internet unreachable
+1733779;40-49;V;257;327;2;2;2015-07-06;5;3;4;14;dienstverlening;informatie / communicatie naar de klant;e-coach: info geen / te weinig;services;information/communication to the customer;E coach: info no/too little
+1639186;50-65;M;257;327;43;54;2015-09-21;8;3;1;15;dienstverlening;begeleiding / behandeling;funct.: cv-beheer klantonvriendelijk (wz);services;support/handling;funct .: CV management customer unfriendly (WZ)
+365775;40-49;M;327;327;106;121;2015-11-15;8;3;1;16;dienstverlening;begeleiding / behandeling;geen interne communicatie / overdracht gegevens;services;support/handling;no internal communication/data transfer
+2199145;50-65;V;313;313;91;105;2015-11-06;8;3;1;16;dienstverlening;begeleiding / behandeling;geen interne communicatie / overdracht gegevens;services;support/handling;no internal communication/data transfer
+1604792;50-65;V;257;291;78;91;2015-10-23;8;3;1;16;dienstverlening;begeleiding / behandeling;geen interne communicatie / overdracht gegevens;services;support/handling;no internal communication/data transfer
+112318;40-49;V;305;304;169;186;2016-01-03;8;3;2;17;dienstverlening;bereikbaarheid / toegankelijkheid;geen mogelijkheid tot mailen;services;availability/accessibility;no possibility of mail
+2205707;50-65;V;296;293;210;237;2016-01-20;8;3;2;17;dienstverlening;bereikbaarheid / toegankelijkheid;geen mogelijkheid tot mailen;services;availability/accessibility;no possibility of mail
+1261842;40-49;M;238;238;252;284;2016-02-17;4;3;3;18;dienstverlening;betaling;geen mogelijkheid tot voorschot;services;payment;no possibility to advance
+1183010;30-39;V;327;327;165;182;2015-12-21;8;3;4;19;dienstverlening;informatie / communicatie naar de klant;geen reactie op brief / brieven / mail ontvangen;services;information/communication to the customer;no response to a letter/letters/mail
+929323;50-65;M;280;283;157;173;2015-12-17;8;3;4;19;dienstverlening;informatie / communicatie naar de klant;geen reactie op brief / brieven / mail ontvangen;services;information/communication to the customer;no response to a letter/letters/mail
+2218784;30-39;V;305;307;109;124;2015-11-18;8;3;4;19;dienstverlening;informatie / communicatie naar de klant;geen reactie op brief / brieven / mail ontvangen;services;information/communication to the customer;no response to a letter/letters/mail
+1723806;50-65;M;257;308;107;122;2015-11-19;1;2;5;20;bejegening (houding / gedrag);n.v.t.;geen respect / niet serieus genomen;treatment (attitude/behavior);N.A.;no respect/not taken seriously
+252287;40-49;V;247;247;102;116;2015-11-13;8;2;5;20;bejegening (houding / gedrag);n.v.t.;geen respect / niet serieus genomen;treatment (attitude/behavior);N.A.;no respect/not taken seriously
+810142;30-39;M;247;247;116;132;2015-11-27;8;2;5;20;bejegening (houding / gedrag);n.v.t.;geen respect / niet serieus genomen;treatment (attitude/behavior);N.A.;no respect/not taken seriously
+173219;30-39;V;230;232;31;40;2015-09-06;8;2;5;20;bejegening (houding / gedrag);n.v.t.;geen respect / niet serieus genomen;treatment (attitude/behavior);N.A.;no respect/not taken seriously
+2060596;50-65;M;313;318;38;48;2015-09-17;8;2;5;20;bejegening (houding / gedrag);n.v.t.;geen respect / niet serieus genomen;treatment (attitude/behavior);N.A.;no respect/not taken seriously
+2006163;18-29;V;230;230;58;70;2015-10-06;8;2;5;20;bejegening (houding / gedrag);n.v.t.;geen respect / niet serieus genomen;treatment (attitude/behavior);N.A.;no respect/not taken seriously
+1373382;30-39;V;257;261;56;67;2015-10-05;8;2;5;20;bejegening (houding / gedrag);n.v.t.;geen respect / niet serieus genomen;treatment (attitude/behavior);N.A.;no respect/not taken seriously
+1202227;30-39;V;280;283;3;5;2015-07-07;5;2;5;20;bejegening (houding / gedrag);n.v.t.;geen respect / niet serieus genomen;treatment (attitude/behavior);N.A.;no respect/not taken seriously
+78574;50-65;V;327;327;22;29;2015-08-21;8;2;5;20;bejegening (houding / gedrag);n.v.t.;geen respect / niet serieus genomen;treatment (attitude/behavior);N.A.;no respect/not taken seriously
+2060596;50-65;M;313;318;20;26;2015-08-18;8;2;5;20;bejegening (houding / gedrag);n.v.t.;geen respect / niet serieus genomen;treatment (attitude/behavior);N.A.;no respect/not taken seriously
+773628;30-39;V;247;239;154;170;2015-12-15;6;2;5;20;bejegening (houding / gedrag);n.v.t.;geen respect / niet serieus genomen;treatment (attitude/behavior);N.A.;no respect/not taken seriously
+112318;40-49;V;305;304;176;194;2016-01-05;8;2;5;20;bejegening (houding / gedrag);n.v.t.;geen respect / niet serieus genomen;treatment (attitude/behavior);N.A.;no respect/not taken seriously
+1815028;50-65;V;280;284;178;197;2016-01-06;3;2;5;20;bejegening (houding / gedrag);n.v.t.;geen respect / niet serieus genomen;treatment (attitude/behavior);N.A.;no respect/not taken seriously
+675611;40-49;M;230;233;182;201;2016-01-07;2;2;5;20;bejegening (houding / gedrag);n.v.t.;geen respect / niet serieus genomen;treatment (attitude/behavior);N.A.;no respect/not taken seriously
+1881904;50-65;M;296;291;196;218;2016-01-12;2;2;5;20;bejegening (houding / gedrag);n.v.t.;geen respect / niet serieus genomen;treatment (attitude/behavior);N.A.;no respect/not taken seriously
+1881904;50-65;M;296;291;196;219;2016-01-12;2;2;5;20;bejegening (houding / gedrag);n.v.t.;geen respect / niet serieus genomen;treatment (attitude/behavior);N.A.;no respect/not taken seriously
+1001033;30-39;V;313;313;192;213;2016-01-11;6;2;5;20;bejegening (houding / gedrag);n.v.t.;geen respect / niet serieus genomen;treatment (attitude/behavior);N.A.;no respect/not taken seriously
+521511;30-39;M;327;327;190;210;2016-01-08;8;2;5;20;bejegening (houding / gedrag);n.v.t.;geen respect / niet serieus genomen;treatment (attitude/behavior);N.A.;no respect/not taken seriously
+2052290;30-39;V;230;230;248;280;2016-02-15;1;2;5;20;bejegening (houding / gedrag);n.v.t.;geen respect / niet serieus genomen;treatment (attitude/behavior);N.A.;no respect/not taken seriously
+70285;40-49;V;247;247;245;277;2016-02-11;8;2;5;20;bejegening (houding / gedrag);n.v.t.;geen respect / niet serieus genomen;treatment (attitude/behavior);N.A.;no respect/not taken seriously
+1151434;40-49;V;280;287;235;266;2016-02-04;8;2;5;20;bejegening (houding / gedrag);n.v.t.;geen respect / niet serieus genomen;treatment (attitude/behavior);N.A.;no respect/not taken seriously
+1569645;30-39;M;305;304;239;271;2016-02-06;8;2;5;20;bejegening (houding / gedrag);n.v.t.;geen respect / niet serieus genomen;treatment (attitude/behavior);N.A.;no respect/not taken seriously
+2145027;40-49;V;230;230;240;272;2016-02-05;8;2;5;20;bejegening (houding / gedrag);n.v.t.;geen respect / niet serieus genomen;treatment (attitude/behavior);N.A.;no respect/not taken seriously
+2225916;18-29;V;238;269;226;257;2016-02-01;8;2;5;20;bejegening (houding / gedrag);n.v.t.;geen respect / niet serieus genomen;treatment (attitude/behavior);N.A.;no respect/not taken seriously
+612914;40-49;M;247;238;229;260;2016-02-02;5;2;5;20;bejegening (houding / gedrag);n.v.t.;geen respect / niet serieus genomen;treatment (attitude/behavior);N.A.;no respect/not taken seriously
+657607;50-65;V;257;327;202;225;2016-01-15;6;3;4;21;dienstverlening;informatie / communicatie naar de klant;geen schorsingsbeslissing ontvangen;services;information/communication to the customer;received no suspension decision
+1384172;50-65;V;269;269;195;217;2016-01-11;8;3;4;22;dienstverlening;informatie / communicatie naar de klant;geen terugbelverzoek geregistreerd / niets geregistreerd;services;information/communication to the customer;no callback registered/not registered
+1167530;18-29;M;313;318;74;87;2015-10-23;5;3;3;23;dienstverlening;betaling;herberekening van de uitkering niet / te laat;services;payment;recalculation of the benefit is not/too late
+1597363;50-65;M;327;327;23;30;2015-08-27;8;3;3;24;dienstverlening;betaling;hoogte uitkering onjuist, beslagvrije voet onjuist;services;payment;height allowance incorrect seizure free foot wrong
+2035866;50-65;M;247;247;6;11;2015-07-13;4;3;3;24;dienstverlening;betaling;hoogte uitkering onjuist, beslagvrije voet onjuist;services;payment;height allowance incorrect seizure free foot wrong
+1928342;40-49;M;230;230;253;285;2016-02-17;8;3;3;24;dienstverlening;betaling;hoogte uitkering onjuist, beslagvrije voet onjuist;services;payment;height allowance incorrect seizure free foot wrong
+2064884;30-39;V;257;327;144;160;2015-12-08;8;3;3;24;dienstverlening;betaling;hoogte uitkering onjuist, beslagvrije voet onjuist;services;payment;height allowance incorrect seizure free foot wrong
+1723340;50-65;M;257;308;50;61;2015-10-02;8;3;1;25;dienstverlening;begeleiding / behandeling;ik moet me aan de regels houden, jullie doen dat niet;services;support/handling;I have to stick to the rules, you do not
+2025715;50-65;V;230;232;10;15;2015-07-30;8;3;4;26;dienstverlening;informatie / communicatie naar de klant;ikf digitaal niet beschikbaar;services;information/communication to the customer;ikf digital unavailable
+500923;30-39;V;230;233;30;39;2015-09-04;8;3;4;26;dienstverlening;informatie / communicatie naar de klant;ikf digitaal niet beschikbaar;services;information/communication to the customer;ikf digital unavailable
+1423616;30-39;V;257;269;117;133;2015-11-27;8;3;4;26;dienstverlening;informatie / communicatie naar de klant;ikf digitaal niet beschikbaar;services;information/communication to the customer;ikf digital unavailable
+1039204;40-49;M;296;316;118;134;2015-11-30;8;3;4;26;dienstverlening;informatie / communicatie naar de klant;ikf digitaal niet beschikbaar;services;information/communication to the customer;ikf digital unavailable
+1336540;18-29;V;230;230;160;177;2015-12-18;8;3;4;26;dienstverlening;informatie / communicatie naar de klant;ikf digitaal niet beschikbaar;services;information/communication to the customer;ikf digital unavailable
+523389;40-49;M;230;237;170;187;2016-01-02;8;3;4;26;dienstverlening;informatie / communicatie naar de klant;ikf digitaal niet beschikbaar;services;information/communication to the customer;ikf digital unavailable
+1384172;50-65;V;269;269;231;262;2016-02-03;5;3;4;26;dienstverlening;informatie / communicatie naar de klant;ikf digitaal niet beschikbaar;services;information/communication to the customer;ikf digital unavailable
+352625;40-49;M;257;265;216;245;2016-01-25;8;3;4;26;dienstverlening;informatie / communicatie naar de klant;ikf digitaal niet beschikbaar;services;information/communication to the customer;ikf digital unavailable
+2068062;40-49;V;305;304;207;231;2016-01-18;8;3;3;27;dienstverlening;betaling;ikf niet / te laat verwerkt;services;payment;ikf non/late processing
+1605169;50-65;M;247;247;208;234;2016-01-19;6;3;3;27;dienstverlening;betaling;ikf niet / te laat verwerkt;services;payment;ikf non/late processing
+185747;40-49;M;230;230;237;268;2016-02-04;8;3;3;27;dienstverlening;betaling;ikf niet / te laat verwerkt;services;payment;ikf non/late processing
+2048063;30-39;V;257;247;153;169;2015-12-13;8;3;3;27;dienstverlening;betaling;ikf niet / te laat verwerkt;services;payment;ikf non/late processing
+2008717;50-65;M;305;308;101;115;2015-11-13;6;3;3;27;dienstverlening;betaling;ikf niet / te laat verwerkt;services;payment;ikf non/late processing
+1999360;40-49;M;238;238;104;119;2015-11-16;6;3;3;27;dienstverlening;betaling;ikf niet / te laat verwerkt;services;payment;ikf non/late processing
+1986662;50-65;V;271;279;70;82;2015-10-13;6;3;3;27;dienstverlening;betaling;ikf niet / te laat verwerkt;services;payment;ikf non/late processing
+1282478;30-39;M;269;230;71;83;2015-10-15;8;3;3;27;dienstverlening;betaling;ikf niet / te laat verwerkt;services;payment;ikf non/late processing
+1470100;18-29;V;305;307;27;35;2015-09-03;5;3;3;27;dienstverlening;betaling;ikf niet / te laat verwerkt;services;payment;ikf non/late processing
+2020041;18-29;V;238;241;40;51;2015-09-21;6;3;3;27;dienstverlening;betaling;ikf niet / te laat verwerkt;services;payment;ikf non/late processing
+2007163;40-49;M;280;285;51;62;2015-10-02;5;3;4;28;dienstverlening;informatie / communicatie naar de klant;ikf niet ontvangen;services;information/communication to the customer;not received ikf
+435939;30-39;V;269;269;25;33;2015-09-01;8;3;4;28;dienstverlening;informatie / communicatie naar de klant;ikf niet ontvangen;services;information/communication to the customer;not received ikf
+1141628;30-39;M;238;239;85;99;2015-11-03;5;3;4;28;dienstverlening;informatie / communicatie naar de klant;ikf niet ontvangen;services;information/communication to the customer;not received ikf
+2090668;30-39;M;305;305;199;222;2016-01-12;8;3;4;28;dienstverlening;informatie / communicatie naar de klant;ikf niet ontvangen;services;information/communication to the customer;not received ikf
+2205707;50-65;V;296;293;210;236;2016-01-20;8;3;4;28;dienstverlening;informatie / communicatie naar de klant;ikf niet ontvangen;services;information/communication to the customer;not received ikf
+2040541;50-65;M;280;280;16;21;2015-08-13;8;3;4;29;dienstverlening;informatie / communicatie naar de klant;ikf onjuist tijdvlak;services;information/communication to the customer;ikf wrong era
+164119;40-49;V;296;293;34;44;2015-09-11;6;3;4;29;dienstverlening;informatie / communicatie naar de klant;ikf onjuist tijdvlak;services;information/communication to the customer;ikf wrong era
+1392558;30-39;V;280;280;256;288;2016-02-27;8;3;4;29;dienstverlening;informatie / communicatie naar de klant;ikf onjuist tijdvlak;services;information/communication to the customer;ikf wrong era
+890599;50-65;V;327;321;79;92;2015-10-27;3;3;4;30;dienstverlening;informatie / communicatie naar de klant;info onduidelijk / onjuist;services;information/communication to the customer;Info unclear/incorrect
+401842;30-39;M;230;230;168;185;2016-01-04;5;3;4;30;dienstverlening;informatie / communicatie naar de klant;info onduidelijk / onjuist;services;information/communication to the customer;Info unclear/incorrect
+160516;50-65;M;238;239;175;193;2016-01-05;6;3;4;31;dienstverlening;informatie / communicatie naar de klant;informatie: geen / te weinig;services;information/communication to the customer;Information: no/insufficient
+2086588;50-65;V;257;265;189;209;2016-01-09;8;3;4;31;dienstverlening;informatie / communicatie naar de klant;informatie: geen / te weinig;services;information/communication to the customer;Information: no/insufficient
+448732;30-39;M;230;230;152;168;2015-12-13;8;3;4;31;dienstverlening;informatie / communicatie naar de klant;informatie: geen / te weinig;services;information/communication to the customer;Information: no/insufficient
+1692924;50-65;M;313;313;158;174;2015-12-19;8;3;4;31;dienstverlening;informatie / communicatie naar de klant;informatie: geen / te weinig;services;information/communication to the customer;Information: no/insufficient
+2068136;18-29;M;247;247;159;176;2015-12-18;8;3;4;31;dienstverlening;informatie / communicatie naar de klant;informatie: geen / te weinig;services;information/communication to the customer;Information: no/insufficient
+2076895;18-29;V;257;269;145;161;2015-12-07;8;3;4;31;dienstverlening;informatie / communicatie naar de klant;informatie: geen / te weinig;services;information/communication to the customer;Information: no/insufficient
+2187737;18-29;V;230;237;201;224;2016-01-14;8;3;4;31;dienstverlening;informatie / communicatie naar de klant;informatie: geen / te weinig;services;information/communication to the customer;Information: no/insufficient
+2222477;30-39;V;305;307;254;286;2016-02-22;5;3;4;31;dienstverlening;informatie / communicatie naar de klant;informatie: geen / te weinig;services;information/communication to the customer;Information: no/insufficient
+2192623;18-29;V;327;327;224;254;2016-02-01;2;3;4;31;dienstverlening;informatie / communicatie naar de klant;informatie: geen / te weinig;services;information/communication to the customer;Information: no/insufficient
+1894699;18-29;V;257;261;75;88;2015-10-22;8;3;4;31;dienstverlening;informatie / communicatie naar de klant;informatie: geen / te weinig;services;information/communication to the customer;Information: no/insufficient
+2016564;40-49;V;238;241;84;98;2015-10-30;6;3;4;31;dienstverlening;informatie / communicatie naar de klant;informatie: geen / te weinig;services;information/communication to the customer;Information: no/insufficient
+2073425;18-29;M;313;313;95;109;2015-11-10;6;3;4;31;dienstverlening;informatie / communicatie naar de klant;informatie: geen / te weinig;services;information/communication to the customer;Information: no/insufficient
+1626114;50-65;V;280;283;110;125;2015-11-23;8;3;4;31;dienstverlening;informatie / communicatie naar de klant;informatie: geen / te weinig;services;information/communication to the customer;Information: no/insufficient
+2223803;30-39;M;296;291;54;65;2015-10-05;8;3;4;31;dienstverlening;informatie / communicatie naar de klant;informatie: geen / te weinig;services;information/communication to the customer;Information: no/insufficient
+1373382;30-39;V;257;261;55;66;2015-10-05;8;3;4;31;dienstverlening;informatie / communicatie naar de klant;informatie: geen / te weinig;services;information/communication to the customer;Information: no/insufficient
+662843;40-49;V;327;327;21;27;2015-08-24;1;3;4;31;dienstverlening;informatie / communicatie naar de klant;informatie: geen / te weinig;services;information/communication to the customer;Information: no/insufficient
+1840659;50-65;M;313;313;7;12;2015-07-16;1;3;4;31;dienstverlening;informatie / communicatie naar de klant;informatie: geen / te weinig;services;information/communication to the customer;Information: no/insufficient
+66885;50-65;M;296;290;1;1;2015-07-03;7;3;4;31;dienstverlening;informatie / communicatie naar de klant;informatie: geen / te weinig;services;information/communication to the customer;Information: no/insufficient
+2016564;40-49;V;238;241;5;10;2015-07-09;8;3;4;31;dienstverlening;informatie / communicatie naar de klant;informatie: geen / te weinig;services;information/communication to the customer;Information: no/insufficient
+2030956;18-29;V;305;304;257;289;2016-02-28;8;3;4;31;dienstverlening;informatie / communicatie naar de klant;informatie: geen / te weinig;services;information/communication to the customer;Information: no/insufficient
+1202227;30-39;V;280;283;3;3;2015-07-07;5;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+1202227;30-39;V;280;283;3;4;2015-07-07;5;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+2023026;50-65;M;257;230;12;17;2015-08-01;8;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+2085978;50-65;M;230;230;4;8;2015-07-09;8;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+2016054;30-39;V;269;257;35;45;2015-09-11;8;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+2044969;50-65;M;280;283;36;46;2015-09-14;8;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+2014479;30-39;M;230;230;37;47;2015-09-15;8;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+2052609;30-39;V;238;241;41;52;2015-09-18;8;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+1867058;40-49;V;313;318;42;53;2015-09-21;5;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+2023026;50-65;M;257;230;39;50;2015-09-01;8;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+82687;30-39;V;327;327;115;131;2015-11-27;6;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+805947;30-39;V;280;304;108;123;2015-11-18;8;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+357639;40-49;V;330;332;133;149;2015-12-04;4;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+2076543;50-65;M;313;316;97;111;2015-11-10;5;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+2057965;18-29;M;327;327;99;113;2015-11-13;6;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+1282478;30-39;M;269;230;73;86;2015-10-20;8;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+2103717;50-65;M;257;257;68;80;2015-10-14;6;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+413563;18-29;V;327;327;225;256;2016-02-01;8;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+2209183;50-65;M;271;274;241;273;2016-02-07;8;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+2102453;18-29;V;269;269;255;287;2016-02-24;6;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+2072697;50-65;M;305;305;244;276;2016-02-05;2;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+2080613;40-49;M;327;321;238;270;2016-02-08;5;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+2088056;18-29;V;269;269;247;279;2016-02-12;5;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+1080488;30-39;V;305;307;204;227;2016-01-18;4;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+1403721;18-29;V;230;237;205;229;2016-01-18;6;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+768741;40-49;M;257;257;206;230;2016-01-18;8;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+1466647;18-29;V;327;327;213;241;2016-01-25;6;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+18444;40-49;M;257;261;211;239;2016-01-22;3;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+1774398;50-65;M;305;304;150;166;2015-12-05;8;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+2072184;40-49;V;257;261;162;179;2015-12-21;8;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+126446;50-65;M;330;330;163;180;2015-12-21;8;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+2186931;50-65;V;269;269;177;196;2016-01-05;8;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+1229413;40-49;M;257;261;184;203;2016-01-07;8;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+241062;30-39;M;230;230;180;199;2016-01-06;6;3;4;32;dienstverlening;informatie / communicatie naar de klant;informatie: onjuist / tegenstrijdig;services;information/communication to the customer;Information: incorrect/inconsistent
+1122621;50-65;M;247;239;181;200;2016-01-06;8;3;2;33;dienstverlening;bereikbaarheid / toegankelijkheid;inkomstenformulier ww niet bereikbaar;services;availability/accessibility;income form ww unreachable
+2092645;50-65;V;247;247;172;189;2016-01-05;6;3;2;33;dienstverlening;bereikbaarheid / toegankelijkheid;inkomstenformulier ww niet bereikbaar;services;availability/accessibility;income form ww unreachable
+773628;30-39;V;247;239;148;164;2015-12-11;6;3;2;33;dienstverlening;bereikbaarheid / toegankelijkheid;inkomstenformulier ww niet bereikbaar;services;availability/accessibility;income form ww unreachable
+2042425;18-29;V;305;304;125;141;2015-12-02;8;3;2;33;dienstverlening;bereikbaarheid / toegankelijkheid;inkomstenformulier ww niet bereikbaar;services;availability/accessibility;income form ww unreachable
+2039963;50-65;M;305;305;143;159;2015-12-01;8;3;2;33;dienstverlening;bereikbaarheid / toegankelijkheid;inkomstenformulier ww niet bereikbaar;services;availability/accessibility;income form ww unreachable
+1986662;50-65;V;271;279;140;156;2015-12-01;8;3;2;33;dienstverlening;bereikbaarheid / toegankelijkheid;inkomstenformulier ww niet bereikbaar;services;availability/accessibility;income form ww unreachable
+1373382;30-39;V;257;261;141;157;2015-12-01;8;3;2;33;dienstverlening;bereikbaarheid / toegankelijkheid;inkomstenformulier ww niet bereikbaar;services;availability/accessibility;income form ww unreachable
+395673;30-39;M;305;305;135;151;2015-12-01;8;3;2;33;dienstverlening;bereikbaarheid / toegankelijkheid;inkomstenformulier ww niet bereikbaar;services;availability/accessibility;income form ww unreachable
+466152;40-49;M;313;316;136;152;2015-12-02;8;3;2;33;dienstverlening;bereikbaarheid / toegankelijkheid;inkomstenformulier ww niet bereikbaar;services;availability/accessibility;income form ww unreachable
+2096924;50-65;M;230;230;137;153;2015-12-02;8;3;2;33;dienstverlening;bereikbaarheid / toegankelijkheid;inkomstenformulier ww niet bereikbaar;services;availability/accessibility;income form ww unreachable
+1710155;30-39;V;296;269;138;154;2015-12-01;8;3;2;33;dienstverlening;bereikbaarheid / toegankelijkheid;inkomstenformulier ww niet bereikbaar;services;availability/accessibility;income form ww unreachable
+2185586;18-29;V;257;257;230;261;2016-02-01;8;3;2;33;dienstverlening;bereikbaarheid / toegankelijkheid;inkomstenformulier ww niet bereikbaar;services;availability/accessibility;income form ww unreachable
+1297594;30-39;V;313;318;131;147;2015-12-01;8;3;2;33;dienstverlening;bereikbaarheid / toegankelijkheid;inkomstenformulier ww niet bereikbaar;services;availability/accessibility;income form ww unreachable
+2145022;50-65;M;327;327;132;148;2015-12-01;8;3;2;33;dienstverlening;bereikbaarheid / toegankelijkheid;inkomstenformulier ww niet bereikbaar;services;availability/accessibility;income form ww unreachable
+1151330;30-39;M;305;304;127;143;2015-12-02;8;3;2;33;dienstverlening;bereikbaarheid / toegankelijkheid;inkomstenformulier ww niet bereikbaar;services;availability/accessibility;income form ww unreachable
+2083751;40-49;M;247;247;128;144;2015-12-01;8;3;2;33;dienstverlening;bereikbaarheid / toegankelijkheid;inkomstenformulier ww niet bereikbaar;services;availability/accessibility;income form ww unreachable
+2016047;40-49;V;257;257;129;145;2015-12-01;8;3;2;33;dienstverlening;bereikbaarheid / toegankelijkheid;inkomstenformulier ww niet bereikbaar;services;availability/accessibility;income form ww unreachable
+2086668;18-29;V;330;330;122;138;2015-12-02;6;3;2;33;dienstverlening;bereikbaarheid / toegankelijkheid;inkomstenformulier ww niet bereikbaar;services;availability/accessibility;income form ww unreachable
+1622140;50-65;V;330;330;60;72;2015-10-07;8;3;2;33;dienstverlening;bereikbaarheid / toegankelijkheid;inkomstenformulier ww niet bereikbaar;services;availability/accessibility;income form ww unreachable
+2011526;18-29;V;269;269;8;13;2015-07-21;8;3;2;33;dienstverlening;bereikbaarheid / toegankelijkheid;inkomstenformulier ww niet bereikbaar;services;availability/accessibility;income form ww unreachable
+66885;50-65;M;296;290;11;16;2015-07-31;1;3;2;33;dienstverlening;bereikbaarheid / toegankelijkheid;inkomstenformulier ww niet bereikbaar;services;availability/accessibility;income form ww unreachable
+20476;50-65;V;257;261;13;18;2015-08-04;8;3;1;34;dienstverlening;begeleiding / behandeling;invullen inkomstenformulier ww klantonvriendelijk;services;support/handling;filling income form ww customer unfriendly
+2035945;50-65;V;230;230;49;60;2015-09-30;8;3;1;34;dienstverlening;begeleiding / behandeling;invullen inkomstenformulier ww klantonvriendelijk;services;support/handling;filling income form ww customer unfriendly
+2041311;40-49;V;271;274;52;63;2015-10-02;8;3;1;34;dienstverlening;begeleiding / behandeling;invullen inkomstenformulier ww klantonvriendelijk;services;support/handling;filling income form ww customer unfriendly
+6607;40-49;V;257;257;219;249;2016-01-28;8;3;1;34;dienstverlening;begeleiding / behandeling;invullen inkomstenformulier ww klantonvriendelijk;services;support/handling;filling income form ww customer unfriendly
+112318;40-49;V;305;304;176;195;2016-01-05;8;3;2;35;dienstverlening;bereikbaarheid / toegankelijkheid;lang in de wacht;services;availability/accessibility;long hold
+1563836;40-49;V;271;279;186;205;2016-01-08;8;3;2;36;dienstverlening;bereikbaarheid / toegankelijkheid;liever geen 0900 nummer;services;availability/accessibility;rather no 0900 number
+2205707;50-65;V;296;293;210;238;2016-01-20;8;3;2;36;dienstverlening;bereikbaarheid / toegankelijkheid;liever geen 0900 nummer;services;availability/accessibility;rather no 0900 number
+173219;30-39;V;230;232;31;41;2015-09-06;8;3;4;37;dienstverlening;informatie / communicatie naar de klant;medewerker moeilijk verstaanbaar;services;information/communication to the customer;employee difficult to understand
+2060596;50-65;M;313;318;38;49;2015-09-17;8;2;5;38;bejegening (houding / gedrag);n.v.t.;medewerker niet competent;treatment (attitude/behavior);N.A.;employee not competent
+1384172;50-65;V;269;269;195;216;2016-01-11;8;3;1;39;dienstverlening;begeleiding / behandeling;moeilijkheden rondom bewijs van inschrijving;services;support/handling;difficulties surrounding proof of registration
+1605169;50-65;M;247;247;208;233;2016-01-19;6;3;4;40;dienstverlening;informatie / communicatie naar de klant;na contact kcc niet teruggebeld;services;information/communication to the customer;after contact kcc not called back
+2028084;40-49;V;257;313;18;23;2015-08-17;8;3;4;40;dienstverlening;informatie / communicatie naar de klant;na contact kcc niet teruggebeld;services;information/communication to the customer;after contact kcc not called back
+147916;30-39;V;271;279;83;96;2015-10-30;5;3;4;40;dienstverlening;informatie / communicatie naar de klant;na contact kcc niet teruggebeld;services;information/communication to the customer;after contact kcc not called back
+2071988;30-39;V;280;283;93;107;2015-11-07;8;3;4;41;dienstverlening;informatie / communicatie naar de klant;niet (terug)gebeld na toezegging;services;information/communication to the customer;not (return) called after commitment
+2108690;18-29;V;327;327;187;206;2016-01-08;8;3;4;41;dienstverlening;informatie / communicatie naar de klant;niet (terug)gebeld na toezegging;services;information/communication to the customer;not (return) called after commitment
+1775333;30-39;V;230;233;166;183;2015-12-24;8;3;2;42;dienstverlening;bereikbaarheid / toegankelijkheid;niet / moeilijk te bereiken;services;availability/accessibility;not/hard to reach
+2106186;18-29;M;327;327;69;81;2015-10-13;8;3;2;42;dienstverlening;bereikbaarheid / toegankelijkheid;niet / moeilijk te bereiken;services;availability/accessibility;not/hard to reach
+2032356;18-29;M;238;238;29;37;2015-09-03;8;3;2;42;dienstverlening;bereikbaarheid / toegankelijkheid;niet / moeilijk te bereiken;services;availability/accessibility;not/hard to reach
+2025136;30-39;V;305;308;62;74;2015-10-08;8;3;2;42;dienstverlening;bereikbaarheid / toegankelijkheid;niet / moeilijk te bereiken;services;availability/accessibility;not/hard to reach
+1604792;50-65;V;257;291;77;90;2015-10-20;8;3;4;43;dienstverlening;informatie / communicatie naar de klant;niet nagekomen afspraak;services;information/communication to the customer;missed appointments
+2016564;40-49;V;238;241;84;97;2015-10-30;6;3;4;43;dienstverlening;informatie / communicatie naar de klant;niet nagekomen afspraak;services;information/communication to the customer;missed appointments
+963453;30-39;M;257;265;87;101;2015-11-05;8;2;5;44;bejegening (houding / gedrag);n.v.t.;ongeïnteresseerd / te weinig aandacht gekregen;treatment (attitude/behavior);N.A.;uninterested/received too little attention
+52839;50-65;M;305;307;44;55;2015-09-22;8;2;5;44;bejegening (houding / gedrag);n.v.t.;ongeïnteresseerd / te weinig aandacht gekregen;treatment (attitude/behavior);N.A.;uninterested/received too little attention
+1114785;30-39;M;280;285;47;58;2015-09-24;8;2;5;44;bejegening (houding / gedrag);n.v.t.;ongeïnteresseerd / te weinig aandacht gekregen;treatment (attitude/behavior);N.A.;uninterested/received too little attention
+1202227;30-39;V;280;283;3;7;2015-07-07;5;2;5;44;bejegening (houding / gedrag);n.v.t.;ongeïnteresseerd / te weinig aandacht gekregen;treatment (attitude/behavior);N.A.;uninterested/received too little attention
+114939;30-39;M;305;304;215;244;2016-01-26;5;2;5;44;bejegening (houding / gedrag);n.v.t.;ongeïnteresseerd / te weinig aandacht gekregen;treatment (attitude/behavior);N.A.;uninterested/received too little attention
+2223803;30-39;M;296;291;236;267;2016-02-04;8;2;5;44;bejegening (houding / gedrag);n.v.t.;ongeïnteresseerd / te weinig aandacht gekregen;treatment (attitude/behavior);N.A.;uninterested/received too little attention
+523389;40-49;M;230;237;250;282;2016-02-15;6;2;5;44;bejegening (houding / gedrag);n.v.t.;ongeïnteresseerd / te weinig aandacht gekregen;treatment (attitude/behavior);N.A.;uninterested/received too little attention
+1413819;30-39;V;230;233;251;283;2016-02-12;8;3;1;45;dienstverlening;begeleiding / behandeling;onredelijke toepassing regels;services;support/handling;unreasonable application rules
+2005322;50-65;V;280;283;53;64;2015-10-04;8;3;1;45;dienstverlening;begeleiding / behandeling;onredelijke toepassing regels;services;support/handling;unreasonable application rules
+2219433;40-49;V;280;284;203;226;2016-01-16;8;3;4;46;dienstverlening;informatie / communicatie naar de klant;oude / onjuiste naw gegevens;services;information/communication to the customer;old/incorrect name and address data
+2182280;30-39;V;257;257;188;207;2016-01-08;8;3;2;47;dienstverlening;bereikbaarheid / toegankelijkheid;performance: werk.nl slecht  / niet bereikbaar;services;availability/accessibility;Performance: werk.nl bad/not reachable
+2105992;30-39;V;313;316;173;191;2016-01-04;8;3;2;47;dienstverlening;bereikbaarheid / toegankelijkheid;performance: werk.nl slecht  / niet bereikbaar;services;availability/accessibility;Performance: werk.nl bad/not reachable
+2032606;30-39;M;247;247;146;162;2015-12-10;4;3;1;48;dienstverlening;begeleiding / behandeling;re-integratie niet / onvoldoende;services;support/handling;reintegration no/insufficient
+407232;40-49;M;230;230;242;274;2016-02-05;8;3;3;49;dienstverlening;betaling;reiskosten niet / te laat betaald;services;payment;travel expenses/late payment
+2045407;50-65;V;247;247;212;240;2016-01-22;8;3;4;50;dienstverlening;informatie / communicatie naar de klant;specificaties: onjuist of onduidelijk;services;information/communication to the customer;Specifications: incorrect or unclear
+2086588;50-65;V;257;265;189;208;2016-01-09;8;3;4;50;dienstverlening;informatie / communicatie naar de klant;specificaties: onjuist of onduidelijk;services;information/communication to the customer;Specifications: incorrect or unclear
+704528;30-39;V;269;269;64;76;2015-10-09;8;3;4;50;dienstverlening;informatie / communicatie naar de klant;specificaties: onjuist of onduidelijk;services;information/communication to the customer;Specifications: incorrect or unclear
+995496;30-39;M;269;269;112;127;2015-11-26;8;3;4;50;dienstverlening;informatie / communicatie naar de klant;specificaties: onjuist of onduidelijk;services;information/communication to the customer;Specifications: incorrect or unclear
+2080424;18-29;V;230;237;218;248;2016-01-26;8;3;3;51;dienstverlening;betaling;terugbetalingsregeling treffen verloopt moeizaam;services;payment;repayment strike is difficult
+2026796;50-65;M;305;308;61;73;2015-10-08;8;3;3;52;dienstverlening;betaling;uitbetaling per wk / 4 wkn klantonvriendelijk;services;payment;payout per wk/4 wks customer unfriendly
+662843;40-49;V;327;327;14;19;2015-08-06;1;3;3;52;dienstverlening;betaling;uitbetaling per wk / 4 wkn klantonvriendelijk;services;payment;payout per wk/4 wks customer unfriendly
+78574;50-65;V;327;327;81;94;2015-10-30;6;3;3;53;dienstverlening;betaling;uitbetaling toeslagenwet niet  toegekend / onregelmatig;services;payment;payout Toeslagenwet not given/irregular
+2103717;50-65;M;257;257;100;114;2015-11-11;2;2;5;54;bejegening (houding / gedrag);n.v.t.;uwv voelt zich niet verantwoordelijk;treatment (attitude/behavior);N.A.;uwv does not feel responsible
+2080613;40-49;M;327;321;238;269;2016-02-08;5;2;5;54;bejegening (houding / gedrag);n.v.t.;uwv voelt zich niet verantwoordelijk;treatment (attitude/behavior);N.A.;uwv does not feel responsible
+1596149;50-65;M;305;304;174;192;2016-01-05;8;2;5;54;bejegening (houding / gedrag);n.v.t.;uwv voelt zich niet verantwoordelijk;treatment (attitude/behavior);N.A.;uwv does not feel responsible
+2030052;18-29;M;305;307;46;57;2015-09-24;6;3;4;55;dienstverlening;informatie / communicatie naar de klant;verbinding verbroken;services;information/communication to the customer;disconnected
+1853698;50-65;M;330;330;96;110;2015-11-10;8;3;3;56;dienstverlening;betaling;verrekening vindt niet / onjuist plaats;services;payment;settlement will not/incorrectly place
+800484;18-29;V;296;291;156;172;2015-12-16;8;3;3;56;dienstverlening;betaling;verrekening vindt niet / onjuist plaats;services;payment;settlement will not/incorrectly place
+1265953;30-39;V;327;327;147;163;2015-12-10;8;3;3;57;dienstverlening;betaling;verschuiving betaaldatum klantonvriendelijk;services;payment;shift payment date customer unfriendly
+1821712;18-29;M;296;301;142;158;2015-12-04;8;3;3;57;dienstverlening;betaling;verschuiving betaaldatum klantonvriendelijk;services;payment;shift payment date customer unfriendly
+1761553;30-39;V;280;287;134;150;2015-12-02;8;3;3;57;dienstverlening;betaling;verschuiving betaaldatum klantonvriendelijk;services;payment;shift payment date customer unfriendly
+1589251;50-65;M;280;283;32;42;2015-09-07;6;3;3;57;dienstverlening;betaling;verschuiving betaaldatum klantonvriendelijk;services;payment;shift payment date customer unfriendly
+919259;18-29;M;327;327;80;93;2015-10-23;8;3;3;58;dienstverlening;betaling;verstoring: betaling te laat;services;payment;disruption: payment late
+2039735;30-39;M;230;237;66;78;2015-10-09;8;3;3;58;dienstverlening;betaling;verstoring: betaling te laat;services;payment;disruption: payment late
+2011721;30-39;M;327;327;67;79;2015-10-10;8;3;3;58;dienstverlening;betaling;verstoring: betaling te laat;services;payment;disruption: payment late
+2018800;18-29;V;257;261;232;263;2016-02-02;8;3;3;58;dienstverlening;betaling;verstoring: betaling te laat;services;payment;disruption: payment late
+2132691;40-49;V;238;241;90;104;2015-11-07;8;3;2;59;dienstverlening;bereikbaarheid / toegankelijkheid;verstoring: inloggen digid;services;availability/accessibility;disruption: Login digid
+950426;18-29;V;313;316;222;252;2016-01-29;8;3;2;60;dienstverlening;bereikbaarheid / toegankelijkheid;verstoring: werk.nl geeft error-melding;services;availability/accessibility;disruption: werk.nl gives error message
+2061419;50-65;M;327;327;45;56;2015-09-22;8;3;2;61;dienstverlening;bereikbaarheid / toegankelijkheid;verstoring: werkmap (taak / bericht doorgeven);services;availability/accessibility;disruption: Workbook (task/message passing)
+2022933;30-39;V;296;293;63;75;2015-10-08;8;3;3;62;dienstverlening;betaling;vervolgbetaling volgt niet;services;payment;Continued payment does not follow
+1723340;50-65;M;257;308;94;108;2015-11-09;8;3;3;62;dienstverlening;betaling;vervolgbetaling volgt niet;services;payment;Continued payment does not follow
+1723340;50-65;M;257;308;82;95;2015-10-29;8;3;3;62;dienstverlening;betaling;vervolgbetaling volgt niet;services;payment;Continued payment does not follow
+1361794;40-49;M;230;233;167;184;2015-12-29;8;3;3;62;dienstverlening;betaling;vervolgbetaling volgt niet;services;payment;Continued payment does not follow
+2017781;50-65;V;271;279;161;178;2015-12-20;8;3;3;62;dienstverlening;betaling;vervolgbetaling volgt niet;services;payment;Continued payment does not follow
+2200019;30-39;M;296;291;209;235;2016-01-20;8;3;1;63;dienstverlening;begeleiding / behandeling;verzenden ikf lukt niet;services;support/handling;Send ikf fails
+2019285;18-29;M;296;293;15;20;2015-08-12;8;3;1;63;dienstverlening;begeleiding / behandeling;verzenden ikf lukt niet;services;support/handling;Send ikf fails
+904876;40-49;V;296;301;249;281;2016-02-12;8;3;1;64;dienstverlening;begeleiding / behandeling;verzenden wijzigingsformulier niet mogelijk;services;support/handling;Send change form is not possible
+1404116;30-39;V;327;327;151;167;2015-12-11;6;3;4;65;dienstverlening;informatie / communicatie naar de klant;verzetten afspraak moeizaam / niet gehonoreerd;services;information/communication to the customer;oppose appointment difficult/not honored
+114939;30-39;M;305;304;215;243;2016-01-26;5;2;5;66;bejegening (houding / gedrag);n.v.t.;vooringenomenheid, besluit stond al vast;treatment (attitude/behavior);N.A.;bias, decision was already decided
+252287;40-49;V;247;247;102;117;2015-11-13;8;2;5;66;bejegening (houding / gedrag);n.v.t.;vooringenomenheid, besluit stond al vast;treatment (attitude/behavior);N.A.;bias, decision was already decided
+2090961;40-49;M;313;318;124;140;2015-12-01;8;3;2;67;dienstverlening;bereikbaarheid / toegankelijkheid;website niet bereikbaar;services;availability/accessibility;Website not available
+879234;50-65;M;238;241;120;136;2015-12-01;5;3;2;67;dienstverlening;bereikbaarheid / toegankelijkheid;website niet bereikbaar;services;availability/accessibility;Website not available
+407232;40-49;M;230;230;121;137;2015-12-02;5;3;2;67;dienstverlening;bereikbaarheid / toegankelijkheid;website niet bereikbaar;services;availability/accessibility;Website not available
+2005322;50-65;V;280;283;223;253;2016-02-01;6;3;2;67;dienstverlening;bereikbaarheid / toegankelijkheid;website niet bereikbaar;services;availability/accessibility;Website not available
+30294;50-65;V;238;238;200;223;2016-01-13;8;3;2;67;dienstverlening;bereikbaarheid / toegankelijkheid;website niet bereikbaar;services;availability/accessibility;Website not available
+1774398;50-65;M;305;304;233;264;2016-02-03;8;3;2;67;dienstverlening;bereikbaarheid / toegankelijkheid;website niet bereikbaar;services;availability/accessibility;Website not available
+1635800;50-65;M;230;230;227;258;2016-02-01;8;3;2;67;dienstverlening;bereikbaarheid / toegankelijkheid;website niet bereikbaar;services;availability/accessibility;Website not available
+1996145;50-65;V;327;327;228;259;2016-02-01;8;3;2;67;dienstverlening;bereikbaarheid / toegankelijkheid;website niet bereikbaar;services;availability/accessibility;Website not available
+2105992;30-39;V;313;316;173;190;2016-01-04;8;3;2;67;dienstverlening;bereikbaarheid / toegankelijkheid;website niet bereikbaar;services;availability/accessibility;Website not available
+1467644;30-39;V;271;278;171;188;2016-01-04;8;3;2;67;dienstverlening;bereikbaarheid / toegankelijkheid;website niet bereikbaar;services;availability/accessibility;Website not available
+2098245;50-65;M;230;230;193;214;2016-01-10;8;3;2;67;dienstverlening;bereikbaarheid / toegankelijkheid;website niet bereikbaar;services;availability/accessibility;Website not available
+2057267;50-65;V;257;304;130;146;2015-12-01;8;3;2;68;dienstverlening;bereikbaarheid / toegankelijkheid;wijzigingsformulier niet bereikbaar;services;availability/accessibility;change form unreachable
+1373382;30-39;V;257;261;88;102;2015-11-05;8;3;2;68;dienstverlening;bereikbaarheid / toegankelijkheid;wijzigingsformulier niet bereikbaar;services;availability/accessibility;change form unreachable
+1604792;50-65;V;257;291;72;85;2015-10-16;8;3;3;69;dienstverlening;betaling;wijzigingsformulier niet verwerkt, betaling onjuist;services;payment;change form is not processed, incorrect payment
+1774398;50-65;M;305;304;179;198;2016-01-05;8;3;3;69;dienstverlening;betaling;wijzigingsformulier niet verwerkt, betaling onjuist;services;payment;change form is not processed, incorrect payment
+1840727;30-39;M;296;291;183;202;2016-01-06;8;3;3;69;dienstverlening;betaling;wijzigingsformulier niet verwerkt, betaling onjuist;services;payment;change form is not processed, incorrect payment
+1604792;50-65;V;257;291;72;84;2015-10-16;8;3;4;70;dienstverlening;informatie / communicatie naar de klant;wijzigingsformulier niet/te laat verwerkt;services;information/communication to the customer;change form non/late processing

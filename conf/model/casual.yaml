@@ -1,0 +1,4 @@
+name: casual
+max_depth: 5
+n_estimators: 10
+max_features: 1
