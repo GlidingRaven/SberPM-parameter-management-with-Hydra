@@ -6,7 +6,14 @@
 
 Версии библиотек, нужных для запуска программы, перечисленны в файле req.txt
 
-## Встроенные Датасеты
+## Запуск
+
+* Для запуска с параметрами установленными в *config.yaml*: `python main.py`
+* Запуск датасета по умолчанию, модели **casual**: `python main.py model=casual`
+* Множественный запуск датасета **complains**, модели **insight** во всех трёх режимах: `python main.py dataset=complains model=insight mode=time,cycles,overall -m`
+* Запуск всех комбинаций датасетов **example**, **complains** и моделей **simple**, **casual**, **heu**, **insight**: `python main.py dataset=complains model=simple,casual,heu,insight -m`
+
+## Встроенные датасеты (журналы событий)
 
 **example.csv** - демонстрационная выборка из библиотеки [Sber_Process_Mining](https://github.com/SberProcessMining/Sber_Process_Mining). 
 Конфигурация для него содержится в файле *cond/dataset/example.yaml*:
@@ -33,16 +40,22 @@ date_format: '%Y-%m-%d'
 ```
 
 ## Результаты работы Моделей PM
+Результаты для **example.csv** и **BPI2016_Complaints.csv** соответственно.
 ### 1. SimpleMiner
+SimpleMiner отображает все рёбра, найденные в журнале событий (фильтрация не применяется)
 ![SimpleMiner](files/1_simple.jpg)
 
 ### 2. CausalMiner
 ![CausalMiner](files/2_casual.jpg)
 
 ### 3. HeuMiner
+При threshold = 0.8
 ![HeuMiner](files/3_heu.jpg)
 
-### 4. Autoinsights
+### 4. AlphaMiner
+![HeuMiner](files/5_alpha.jpg)
+
+### 5. Autoinsights
 
 #### 4.1. Time mode 
 |   ![SimpleMiner](files/4_1_insight.jpg)|  ![SimpleMiner](files/4_1_insight_complains.jpg) |
