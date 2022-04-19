@@ -7,11 +7,12 @@ import pandas as pd
 from sberpm import DataHolder
 from sberpm.visual import GraphvizPainter
 
-    
+
+# Использование шаблона "декоратор" над главной функцией my_app
+# Обязательная часть при использовании sberpm
 @hydra.main(config_path='conf', config_name='config')
 def my_app(cfg : DictConfig) -> None:
-#     log.info(OmegaConf.to_yaml(cfg))
-    
+    # функция загрузки датасета    
     def create_dataset():
         full_path = hydra.utils.get_original_cwd() + '\\' + cfg.dataset.filename
         df = pd.read_csv(full_path, cfg.dataset.separator, encoding='latin-1')
@@ -23,6 +24,7 @@ def my_app(cfg : DictConfig) -> None:
                          time_format = cfg.dataset.date_format)
         return data_holder
     
+    # функция модели - содержит логику выбора майнера по ключу из конфига и реализует каждый вид майнера 
     def mine(dh):
         model_name = cfg.model.name
         
@@ -70,9 +72,11 @@ def my_app(cfg : DictConfig) -> None:
             painter.write_graph(model_name + '.' + cfg.out_format, format=cfg.out_format)
             
         else:
+            # если переданный ключ не был найден - вызов исключения
             raise ValueError('Model not exist. Check name')
         print('Done')
             
+    # загрузка датасета и использование майнера
     data_holder = create_dataset()
     mine(data_holder)
                                  
